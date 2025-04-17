@@ -4,7 +4,7 @@ An educational and fun website designed specifically for **children** to learn t
 
 ---
 
-## 👶 Overview
+##  Overview
 
 This platform is a vibrant and engaging learning tool for kids.  
 It combines sound, visuals, and interactive elements to help children:
